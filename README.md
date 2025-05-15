@@ -65,4 +65,4 @@ Here’s a **brief step-by-step guide** to installing a cluster on **user-provis
   oc get nodes
   ```
 
-For detailed instructions, check out [Red Hat’s official documentation](https://docs.redhat.com/en/documentation/openshift_container_platform/4.13/html/installing_on_aws/installing-aws-user-infra) or [OKD installation guide](https://docs.okd.io/4.17/installing/installing_aws/upi/installing-aws-user-infra.html). Let me know if you need further clarification! 🚀
+For detailed instructions, check out [Red Hat’s official documentation](https://docs.redhat.com/en/documentation/openshift_container_platform/4.13/html/installing_on_aws/installing-aws-user-infra) or [OKD installation guide](https://docs.okd.io/4.17/installing/installing_aws/upi/installing-aws-user-infra.html).
